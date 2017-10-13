@@ -1,16 +1,20 @@
 {
-  "name": "{{name}}",
+  "name": "egg-born-module-{{name}}",
   "version": "1.0.0",
-  "eggBornModule": {
-    "dependencies": {}
+  "eggBornModule":
+  {
+    "dependencies":
+    {}
   },
   "description": "{{description}}",
-  "scripts": {
+  "scripts":
+  {
     "build:front": "node build/front/build.js",
     "lint": "eslint front"
   },
   "author": "{{author}}",
-  "devDependencies": {
+  "devDependencies":
+  {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.5.0",
     "eslint-config-egg": "^5.1.0",
@@ -43,7 +47,8 @@
     "url-loader": "^0.5.9",
     "vue-loader": "^13.0.4",
     "vue-style-loader": "^3.0.1",
-    "vue-template-compiler": "^2.4.2"
+    "vue-template-compiler": "2.4.4"
   },
-  "dependencies": {}
+  "dependencies":
+  {}
 }
