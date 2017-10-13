@@ -1,0 +1,26 @@
+{
+  "name": "egg-born-template-module-front",
+  "version": "0.0.1",
+  "description": "egg-born-template-module-front",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/egg-born-template-module-front.git"
+  },
+  "keywords": [
+    "egg",
+    "egg-born",
+    "fullstack",
+    "boilerplate",
+    "template",
+    "module front"
+  ],
+  "author": "zhennann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhennann/egg-born-template-module-front/issues"
+  },
+  "homepage": "https://github.com/zhennann/egg-born-template-module-front#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
